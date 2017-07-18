@@ -1,0 +1,24 @@
+{
+  "name": "connectjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knex_lookup.js",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "pg": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kai19/Connecting-to-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kai19/Connecting-to-Javascript/issues"
+  },
+  "homepage": "https://github.com/Kai19/Connecting-to-Javascript#readme"
+}
